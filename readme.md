@@ -1,3 +1,3 @@
-* Last name:
-* First name:
-* Github username:
+* **Last name:**
+* **First name:**
+* **Github username:**
